@@ -34,7 +34,7 @@
 ## 🎓 Education
 
 - **BMS College of Engineering**
-  - M.Tech in Computer Networks
+  - M.Tech in Computer Science
   - Specialization: Computer Networks
 
 ---
