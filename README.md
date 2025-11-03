@@ -50,8 +50,9 @@
 - Secure voting platform on Ethereum
 - Smart contracts for transparent results
 
-### 🖌️ Sketch Portfolio
-- Digital art & hand-drawn sketches (see pinned repo!)
+### 🖌️ AI_Trip planner
+- An intelligent trip planning platform where users input their travel preferences via
+- natural language and receive AI-generated itineraries, daily schedules, and budget estimates. 
 
 ---
 
