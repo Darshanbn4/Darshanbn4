@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:darshan.b.n4@gmail.com"><img src="https://img.shields.io/badge/Gmail-darshan.b.n4-red?logo=gmail" /></a>
-  <a href="https://linkedin.com/in/darshan-b-n-428074223"><img src="https://img.shields.io/badge/LinkedIn-darshan--b--n-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/darshan-bindiga/"><img src="https://img.shields.io/badge/LinkedIn-darshan--b--n-blue?logo=linkedin" /></a>
   <a href="https://github.com/Darshanbn4"><img src="https://img.shields.io/badge/GitHub-Darshanbn4-black?logo=github" /></a>
 </p>
 ---
