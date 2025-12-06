@@ -71,7 +71,7 @@
 ## 📬 Connect With Me
 
 - 📧 **Email**: darshan.b.n4@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/darshan-b-n-428074223](https://linkedin.com/in/darshan-b-n-428074223)  
+- 💼 **LinkedIn**:[https://www.linkedin.com/in/darshan-bindiga/](https://www.linkedin.com/in/darshan-bindiga/)
 - 🧑‍💻 **GitHub**: [Darshanbn4](https://github.com/Darshanbn4)
 
 ---
