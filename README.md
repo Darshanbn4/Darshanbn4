@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Darshan!</h1>
 
 <p align="center">
-  <i>Full Stack Developer | Python, Java & ReactJS | Hydroponics & Blockchain Enthusiast</i>
+  <i>Full Stack Developer | Python, Java & ReactJS | Hydroponics & Cloud-native Enthusiast</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Smart+Systems;Exploring+Blockchain+Tech;Sketching+Creativity;Life-long+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Smart+Systems;Exploring+Cloud+Tech;Sketching+Creativity;[...]" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 🎓 Developer passionate about building end-to-end solutions  
-💡 Interested in hydroponics automation, blockchain, and modern web tech  
+💡 Interested in hydroponics automation, cloud-native systems, and modern web tech  
 🛠️ Skilled in Python, Java, ReactJS, and deploying scalable applications  
 🎨 Hobbyist sketch artist
 
@@ -46,9 +46,10 @@
 - IoT-based smart hydroponics system (Raspberry Pi, ML, MongoDB)
 - Monitors EC, temperature, nutrients for optimized growth
 
-### 🔐 Blockchain Voting App
-- Secure voting platform on Ethereum
-- Smart contracts for transparent results
+### ☁️ Podsphere
+- Cloud-native platform for deploying and managing containerized applications
+- Features: Kubernetes-based orchestration, automated CI/CD pipelines, monitoring & logging, and easy scaling for microservices
+- Built with Docker, Kubernetes, Prometheus, and integrated with GitHub Actions for deployments
 
 ### 🖌️ AI_Trip planner
 - An intelligent trip planning platform where users input their travel preferences via
