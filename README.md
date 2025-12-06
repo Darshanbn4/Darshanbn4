@@ -96,19 +96,8 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Darshanbn4&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshanbn4&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Pinned repository cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshanbn4&repo=student-deployer-kubernetes&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshanbn4&repo=AI_trip_planner&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshanbn4&repo=Hydroponics-Automation-Raspi&theme=tokyonight" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
